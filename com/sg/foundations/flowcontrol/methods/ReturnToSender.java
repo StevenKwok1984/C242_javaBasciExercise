@@ -10,7 +10,7 @@ public class ReturnToSender {
 
         System.out.println("The methods have returned! Their results...\n");
         System.out.println("Mysterious: " + aMystery);
-        System.out.println("    Secret: " + aSecret);
+        System.out.println("Secret: " + aSecret);
         System.out.println("Surprising: " + aSurprise);
         System.out.println("Classified: " + itsClassified);
         System.out.println("Unexpected: " + totallyUnexpected);
